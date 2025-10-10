@@ -20,7 +20,7 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 ## 🛠️ programming Languages
 ![Python](https://img.shields.io/badge/Python-%230000FF.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2344AAFF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2344AAFF.svg?style=for-the-badge&logo=mysql&logoColor=yellow)
 
 
 
@@ -41,7 +41,7 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 
 
-## Tech Stack
+## 🛠️Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
@@ -65,6 +65,13 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 ## 📈 GitHub Stats
 ![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahanaReddy06&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanaReddy06&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahanaReddy06&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SahanaReddy06&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+
 
 
 ## 📊 Visitor Count
