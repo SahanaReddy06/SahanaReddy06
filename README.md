@@ -1,10 +1,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,I'mSahana!&fontSize=40)
 
-
 ## 🌱 About Me
 I'm a curious developer who thrives on creating innovative solutions. I enjoy experimenting with new technologies, contributing to meaningful projects, and building applications that make a difference.
-
 
 - 🌱 **Currently Learning:** Advanced Python, DSA, Machine Learning, Data Science  
 - 👯 **Open to Collaborate On:** AI/ML Projects, Web Apps, Data Analytics  
