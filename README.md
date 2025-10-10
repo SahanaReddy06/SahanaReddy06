@@ -13,20 +13,29 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 - ⚡ **Fun Fact:** I chase bugs through the night like they’re part of a horror movie
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%230000FF.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2344AAFF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23FF8800.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231577B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-FFE873?style=flat-square&logo=python&logoColor=306998)
+![Java](https://img.shields.io/badge/Java-F7C202?style=flat-square&logo=java&logoColor=007396)
+![SQL](https://img.shields.io/badge/SQL-49A6E9?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2A78C2?style=flat-square&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-%234B8BBE?style=for-the-badge&logo=python&logoColor=F7DF1E&labelColor=303030)
+![Java](https://img.shields.io/badge/Java-%23F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=202020)
+![SQL](https://img.shields.io/badge/SQL-%233399FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![HTML](https://img.shields.io/badge/HTML-%23FF6F00?style=for-the-badge&logo=html5&logoColor=white&labelColor=202020)
+![CSS](https://img.shields.io/badge/CSS-%231570B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+
+
 
 ## 📈 GitHub Stats
 ![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 💡 Projects I'm Proud Of
-- **[Awesome Web App](https://github.com/your-github-username/project1)** – Task management app using Flask & React.  
-- **[Data Analysis Project](https://github.com/your-github-username/project2)** – Python-based insights & visualizations from datasets.  
-- **[Machine Learning Model](https://github.com/your-github-username/project3)** – Predictive ML model using scikit-learn.  
 
 ## 📊 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
