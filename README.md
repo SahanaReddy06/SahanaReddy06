@@ -9,6 +9,11 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 - 💬 **Ask Me About:** Python, Java, SQL, and coding challenges  
 - ⚡ **Fun Fact:** I chase bugs through the night like they’re part of a horror movie
 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-sahana)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white)](https://sahana-space.netlify.app/)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddysahana748@gmail.com)
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-%230000FF.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
