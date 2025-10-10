@@ -68,7 +68,7 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 
 ## 📊 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/SahanaReddy06/count.svg)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Visits-blue)
 
 ---
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
