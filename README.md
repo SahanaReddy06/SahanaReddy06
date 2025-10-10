@@ -22,16 +22,17 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 
 ## 📈 GitHub Stats
-![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?SahanaReddy06=your-github-SahanaReddy06&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?SahanaReddy06=your-github-SahanaReddy06&layout=compact&theme=radical)
+![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahanaREddy06&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanaREddy06&layout=compact&theme=radical)
 
 ## 📊 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/your-github-SahanaReddy06/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SahanaREddy06/count.svg)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-sahana)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white)](https://sahana-space.netlify.app/)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddysahana748@gmail.com)
+
 
 ---
 
