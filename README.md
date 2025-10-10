@@ -31,6 +31,18 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 ![HTML](https://img.shields.io/badge/HTML-%23FF6F00?style=for-the-badge&logo=html5&logoColor=white&labelColor=202020)
 ![CSS](https://img.shields.io/badge/CSS-%231570B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
+![Python](https://img.shields.io/badge/Python-%23FFD500?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-%23FF6F61?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2341EAD4?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23FF3D00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%230094FF?style=for-the-badge&logo=css3&logoColor=white)
+
+
+![Python](https://img.shields.io/badge/Python-%23F0DB4F?style=for-the-badge&logo=python&logoColor=306998&labelColor=%23303030)
+![Java](https://img.shields.io/badge/Java-%23E44C26?style=for-the-badge&logo=java&logoColor=white&labelColor=%23202020)
+![SQL](https://img.shields.io/badge/SQL-%2341B883?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23101010)
+![HTML](https://img.shields.io/badge/HTML-%23FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23202020)
+![CSS](https://img.shields.io/badge/CSS-%23007ACC?style=for-the-badge&logo=css3&logoColor=white&labelColor=%23101010)
 
 
 ## 📈 GitHub Stats
