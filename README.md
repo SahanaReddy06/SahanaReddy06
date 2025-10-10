@@ -2,7 +2,7 @@
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi there 👋, I'm Sahana&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,I'mSahana!&fontSize=40)
 
 ## 🌱 About Me
 I'm a passionate developer who loves turning ideas into reality through code. I enjoy exploring new technologies, contributing to open-source, and building projects that make an impact.  
