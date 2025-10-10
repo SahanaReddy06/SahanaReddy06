@@ -5,12 +5,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,I'mSahana!&fontSize=40)
 
 ## 🌱 About Me
-I'm a passionate developer who loves turning ideas into reality through code. I enjoy exploring new technologies, contributing to open-source, and building projects that make an impact.  
+I'm a curious developer who thrives on creating innovative solutions. I enjoy experimenting with new technologies, contributing to meaningful projects, and building applications that make a difference.
 
-- 🌱 **Currently Learning:** Advanced Python, DSA, Cloud & Web Dev  
+- 🌱 **Currently Learning:** Advanced Python, DSA, Machine Learning, Data Science  
 - 👯 **Open to Collaborate On:** AI/ML Projects, Web Apps, Data Analytics  
 - 💬 **Ask Me About:** Python, Java, SQL, and coding challenges  
-- ⚡ **Fun Fact:** I solve coding puzzles while sipping coffee ☕
+- ⚡ **Fun Fact:** I chase bugs through the night like they’re part of a horror movie
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,8 +18,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
