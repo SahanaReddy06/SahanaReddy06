@@ -1,7 +1,4 @@
 
-
-
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,I'mSahana!&fontSize=40)
 
 ## 🌱 About Me
@@ -22,11 +19,11 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 
 ## 📈 GitHub Stats
-![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahanaREddy06&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanaREddy06&layout=compact&theme=radical)
+![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahanaReddy06&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanaReddy06&layout=compact&theme=radical)
 
 ## 📊 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/SahanaREddy06/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SahanaReddy06/count.svg)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-sahana)  
