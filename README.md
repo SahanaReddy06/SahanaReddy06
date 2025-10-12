@@ -72,7 +72,4 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 
 
-## 📊 Visitor Count
-![Profile Views](https://img.shields.io/badge/Profile%20Views-Visits-blue)
-
 
