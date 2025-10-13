@@ -68,7 +68,7 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahanaReddy06&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SahanaREddy06&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SahanaReddy06&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
 
 
