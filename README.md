@@ -1,10 +1,10 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,I'mSahana!&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,%20I'm%20Sahana!&fontSize=40)
 
 ## 🌱 About Me
 I'm a curious developer who thrives on creating innovative solutions. I enjoy experimenting with new technologies, contributing to meaningful projects, and building applications that make a difference.
 
-- 🌱 **Currently Learning:** Advanced Python, DSA, Machine Learning, Data Science  
+- 🌱 **Currently Learning:** Advanced Python, DSA, Machine Learning, Data Science, Exploring DevOps Tools  
 - 👯 **Open to Collaborate On:** AI/ML Projects, Web Apps, Data Analytics  
 - 💬 **Ask Me About:** Python, Java, SQL, and coding challenges  
 - ⚡ **Fun Fact:** I chase bugs through the night like they’re part of a horror movie
@@ -52,13 +52,15 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 ## ☁️ Cloud 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ## 🛠️ Tools 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahanaReddy06&show_icons=true&theme=radical)
