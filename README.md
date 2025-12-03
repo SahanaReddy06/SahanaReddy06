@@ -3,10 +3,11 @@
 
 ## 🌱 About Me
 I'm a curious developer who thrives on creating innovative solutions. I enjoy experimenting with new technologies, contributing to meaningful projects, and building applications that make a difference.
-
-- 🌱 **Currently Learning:** Advanced Python, DSA, Machine Learning, Data Science, Exploring DevOps Tools  
+p
+- 🌱 **Currently Learning:** DSA, Machine Learning, Data Science, Exploring DevOps Tools  
 - 👯 **Open to Collaborate On:** AI/ML Projects, Web Apps, Data Analytics  
-- 💬 **Ask Me About:** Python, Java, SQL, and coding challenges  
+- 💬 **Ask Me About:** Pyt
+- hon, Java, SQL, and coding challenges  
 - ⚡ **Fun Fact:** I chase bugs through the night like they’re part of a horror movie
 
 ## 📫 Connect with Me
