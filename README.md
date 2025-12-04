@@ -3,7 +3,7 @@
 
 ## 🌱 About Me
 I'm a curious developer who thrives on creating innovative solutions. I enjoy experimenting with new technologies, contributing to meaningful projects, and building applications that make a difference.
-p
+
 - 🌱 **Currently Learning:** DSA, Machine Learning, Data Science, Exploring DevOps Tools, AWS  
 - 👯 **Open to Collaborate On:** AI/ML Projects, Web Apps, Data Analytics  
 - Pyhon, Java, SQL, and coding challenges  
@@ -51,15 +51,19 @@ p
 
 
 
-## ☁️ Cloud 
+## ☁️ DevOps and Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-## 🛠️ Tools 
+## 🔧 Version Control & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 🛠️ Tools 
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
