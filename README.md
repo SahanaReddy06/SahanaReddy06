@@ -6,7 +6,7 @@ I'm a curious developer who thrives on creating innovative solutions. I enjoy ex
 
 - 🌱 **Currently Learning:** DSA, Machine Learning, Data Science, Exploring DevOps Tools, AWS  
 - 👯 **Open to Collaborate On:** AI/ML Projects, Web Apps, Data Analytics  
-- Pyhon, Java, SQL, and coding challenges  
+- Python, Java, SQL, and coding challenges  
 - ⚡ **Fun Fact:** I chase bugs through the night like they’re part of a horror movie
 
 ## 📫 Connect with Me
